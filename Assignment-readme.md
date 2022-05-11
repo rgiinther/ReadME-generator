@@ -1,7 +1,15 @@
 # ReadME-generator
 Node JS Module 9
 
+User story:
+AS A developer
+I WANT a README generator
+SO THAT I can quickly create a professional README for a new project
 
+Link to github repo: https://github.com/rgiinther/ReadME-generator
+
+Video link: 
+https://youtu.be/Ow4-DHbXlss
 
 
 
